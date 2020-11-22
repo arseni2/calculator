@@ -1,0 +1,10 @@
+.loaded_hiding{
+display: none;
+}
+.loaded{
+    display: block;
+}
+#loader{
+    margin-top: 17%;;
+    text-align: center;
+}
